@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
-"""
-
 testArr = [11, 22, 33, 22, 11] 
 result = testArr[0] 
 for iter in testArr: 
